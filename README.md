@@ -19,8 +19,6 @@ A production-style AI pipeline that extracts structured company information from
 - **BeautifulSoup**: HTML preprocessing and cleaning
 
 ## Setup
-
-### 1. Install Dependencies
 ```bash
 pip install -r requirements.txt
 playwright install
